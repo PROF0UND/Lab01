@@ -1,9 +1,14 @@
 # Lab 1
-## Compile
+Compile
+```
 gcc -nostdlib -no-pie print_hello.s -o hello
-## Run
+```
+Run
+```
 ./hello
-TA grading tip: If we can compile from your README, we can grade fast and fairly.
+```
+
+> TA grading tip: If we can compile from your README, we can grade fast and fairly.
 
 ---
 
