@@ -8,22 +8,22 @@ TA grading tip: If we can compile from your README, we can grade fast and fairly
 ---
 
 ## Task 1:
-### Compile:
+Compile:
 ```
 gcc -no-pie Task_1.s print_ram.c -o task1
 ```
-### Run:
+Run:
 ```
 ./task1
 ```
 ---
 
 ## Task 2:
-### Compile:
+Compile:
 ```
 gcc -no-pie Task_2.s print_ram.c -o task2
 ```
-### Run:
+Run:
 ```
 ./task2
 ```
