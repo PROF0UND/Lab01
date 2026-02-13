@@ -5,8 +5,9 @@ gcc -nostdlib -no-pie print_hello.s -o hello
 ./hello
 TA grading tip: If we can compile from your README, we can grade fast and fairly.
 
-## Task 1:
+---
 
+## Task 1:
 ### Compile:
 ```
 gcc -no-pie Task_1.s print_ram.c -o task1
@@ -15,3 +16,15 @@ gcc -no-pie Task_1.s print_ram.c -o task1
 ```
 ./task1
 ```
+---
+
+## Task 2:
+### Compile:
+```
+gcc -no-pie Task_2.s print_ram.c -o task2
+```
+### Run:
+```
+./task2
+```
+---
